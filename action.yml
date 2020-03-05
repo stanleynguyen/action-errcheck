@@ -1,0 +1,9 @@
+name: errcheck
+description: errcheck as a GitHub action
+author: stanleynguyen
+branding:
+  icon: shield
+  color: blue
+runs:
+  using: docker
+  image: Dockerfile
